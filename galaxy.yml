@@ -1,12 +1,12 @@
 namespace: buluma
 name: ara_collection
-version: 0.1.0
+version: 0.1.1
 readme: README.md
 authors:
   - ARA Records Ansible (https://github.com/ansible-community/ara)
-description: null
+description: A Collection of Ara roles.
 license_file: LICENSE
-tags: null
+tags: ara
 repository: https://github.com/buluma/ara-collection
 documentation: https://github.com/buluma/ara-collection
 homepage: https://ara.recordsansible.org
