@@ -1,0 +1,13 @@
+namespace: buluma
+name: ara
+version: 0.1.0
+readme: README.md
+authors:
+  - ARA Records Ansible (https://github.com/ansible-community/ara)
+description: null
+license_file: LICENSE
+tags: null
+repository: https://github.com/buluma/ara-collection
+documentation: https://github.com/buluma/ara-collection
+homepage: https://ara.recordsansible.org
+issues: https://github.com/buluma/ara-collection/issues
